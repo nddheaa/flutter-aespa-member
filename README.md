@@ -10,7 +10,9 @@ Selamat datang di repositori **Flutter AESPA Member**! 🎉 Proyek ini adalah ap
 
 ## 📸 Tampilan
 
-![Tampilan Utama](images/tampilan-utama.png)
+![Tampilan Utama](images/1.png)
+![Tampilan Utama](images/2.png)
+![Tampilan Utama](images/3.png)
 
 ## 🛠️ Teknologi yang Digunakan
 
