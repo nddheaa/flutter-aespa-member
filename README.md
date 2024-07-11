@@ -9,9 +9,12 @@ Selamat datang di repositori **Flutter AESPA Member**! 🎉 Proyek ini adalah ap
 - **Biografi**: Baca biografi dan informasi menarik tentang setiap anggota. 📚
 
 ## 📸 Tampilan
-
+### First screen
 ![Tampilan Utama](images/1.jpeg)
+
 ![Tampilan Utama](images/2.jpeg)
+
+### Second screen
 ![Tampilan Utama](images/3.jpeg)
 
 ## 🛠️ Teknologi yang Digunakan
